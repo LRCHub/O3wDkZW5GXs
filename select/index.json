@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "霞がついてくる",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-02-09T14:08:10.552048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "霞がついてくる",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/01_霞がついてくる_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "霞がついてくる - Live at Virtual, 2022",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/02_霞がついてくる_-_Live_at_Virtual,_2022_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "霞がついてくる - Live at Virtual, 2022",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/03_霞がついてくる_-_Live_at_Virtual,_2022_理芽.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "霞がついてくる",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_霞がついてくる_ヰ世界情緒.txt"
+    }
+  ]
+}
